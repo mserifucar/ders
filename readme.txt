@@ -1,0 +1,1 @@
+Git eğitimlerini içeren klasör
