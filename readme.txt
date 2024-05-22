@@ -1,1 +1,1 @@
-Git eğitimlerini içeren klasör
+Git eğitimlerinin bulunduğu klasör1231232132
